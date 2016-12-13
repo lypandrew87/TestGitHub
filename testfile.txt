@@ -1,0 +1,2 @@
+We are trying to add a new file and trying to commit it
+
